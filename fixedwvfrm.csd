@@ -21,7 +21,7 @@ instr 1
 	aLoop chnget "analogIn2"
 	aLoop = (aLoop * 5) + 0.1
 	kLoop = k(aLoop)
-    kLoop portk kLoop, 0.5
+        kLoop portk kLoop, 0.5
 
 	
 	aCf chnget "analogIn3"
@@ -29,9 +29,9 @@ instr 1
 	kCf = k(aCf)
 
 	
-    aMvol chnget "analogIn5"
-    aMvol = (aMvol * 2) + 0.001
-    kMvol = k(aMvol)
+   	aMvol chnget "analogIn5"
+   	aMvol = (aMvol * 2) + 0.001
+    	kMvol = k(aMvol)
 	
 	iButtPin1 = 0 ; used later to declare digital pin 0 as "where to look", pins indexed from 0 hence the numberic shif 
 	iButtPin2 = 1
@@ -122,14 +122,16 @@ instr 1
 	aMaster = aMaster * kMvol
 	
     out aMaster
+    
 endin
 
 </CsInstruments>
 <CsScore>
+
 f 1 0 16384 10 1 
 f2 0 16384 10 1 0.5 0.3 0.25 0.2 0.167 0.14 0.125 .111
 
-i1 0 86400
+i 1 0 86400
 </CsScore>
 </CsoundSynthesizer>
 <bsbPanel>
