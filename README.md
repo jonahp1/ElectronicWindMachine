@@ -3,7 +3,7 @@ This repository stores a project done in Spring 2021 for "Computer Synthesis of 
 
 - Demos = Links to quick demo videos of the two different "firmwares"...
 
-- Presentation.pdf = Powerpoint of presentation given to class
+- Presentation.pdf = Powerpoint of presentation given about process, technology, and why I did this
 
 - Schematic-v1 = schematic of build. Hand drawn - yes... sorry :/ - but details all necessary connections for circuit + sensors etc...
 
