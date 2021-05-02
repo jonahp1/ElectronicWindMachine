@@ -1,7 +1,7 @@
 # ElectronicWindMachine
 This repository stores a project done in Spring 2021 for "Computer Synthesis of Music", a course taken during my Graduate education
 
-- Demos = Links to quick demo videos of the two different "firmwares"...
+- Demos = Links to quick demo videos of the two different "firmwares"... Also a link to a piece of music written for the Wind Machine.
 
 - Presentation.pdf = Powerpoint of presentation given about process, technology, and why I did this
 
