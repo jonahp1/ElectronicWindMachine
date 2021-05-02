@@ -2,3 +2,5 @@ Quick demo videos of the two different "firmwares"...
 
 - Fixed Waveform Subtractive Synthesis: https://youtu.be/5elss2EMH9A
 - Filter Bank-based Decomposition of Noise: https://youtu.be/nldtNZXze1I
+
+- a piece of music: https://jonahpfluger.bandcamp.com/track/science-fiction-in-the-park
