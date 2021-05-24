@@ -11,4 +11,3 @@ This repository stores a project done in Spring 2021 for "Computer Synthesis of 
 
 - fixedwvfrm.csd & filtbnkdcmp.csd are the "firmware" options... Though they are Csound files, they won't run in the QT environment and must be installed onto the Bela in the Bela browser IDE
 
-- gtrverber.csd & gtrglitcher.csd are the programs used to process guitar that you hear in the piece
